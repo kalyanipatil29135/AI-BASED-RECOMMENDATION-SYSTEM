@@ -44,4 +44,6 @@ Technical Requirements
 
 7 Data Sources: Sample datasets (e.g., MovieLens dataset for movie recommendations or e-commerce product ratings).
 
-#OUTPUT OF THE TASK
+#OUTPUT OF THE TASK :
+
+<!-- Uploading "2025-02-05 (1).png"... -->
